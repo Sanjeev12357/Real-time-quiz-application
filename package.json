@@ -1,0 +1,12 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "- Admin shouldbe allowed to add questions \r - Admin should be allowd to move to the next questions\r - Admin should be allowed to show the leader board to everyone \r - Users should be allowed to answer the questions\r - Users just need to poll the server for the next questions , no need for it to be realtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
